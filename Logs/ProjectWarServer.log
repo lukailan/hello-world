@@ -1,0 +1,1177 @@
+﻿Log file open, 04/04/23 21:07:44
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 18 total threads with 1 sets of task threads.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin LiveLinkControlRig
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Volumetrics
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin NetworkPrediction
+LogPluginManager: Mounting plugin NetworkPredictionExtras
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin AdvancedProceduralFoliage
+LogPluginManager: Mounting plugin DBCollectPlugin
+LogPluginManager: Mounting plugin CameraTracker
+LogPluginManager: Mounting plugin AsyncLoadingScreen
+LogPluginManager: Mounting plugin EditorUtilityExtension
+LogPluginManager: Mounting plugin GASAttachEditor
+LogPluginManager: Mounting plugin EnhancedWidget
+LogPluginManager: Mounting plugin NiagaraUIRenderer
+LogPluginManager: Mounting plugin KW_LandscapeMat
+LogPluginManager: Mounting plugin PrefabTool
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin Riverology_Plugin
+LogPluginManager: Mounting plugin ProInstanceToolsPlugin
+LogPluginManager: Mounting plugin UIWS
+LogPluginManager: Mounting plugin Strider
+LogPluginManager: Mounting plugin Wwise
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Feb 28 2023 11:54:24
+LogInit: Compiled with Visual C++: 19.29.30143.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  HeavenIsland_Start_1?Listen?MaxPlayers=100 -server -game -ServerName=lukailanMobile -log log=ProjectWarServer.log -locallogtimes -EnableParallelTickFunction -UseDynamicPhysicsScene -BeaconPort=23222 -GrowUpExpRatio=1 -GainRate=1 -FoliageRestoreRate=1 -SaveGame=true
+LogInit: Base Directory: E:/server/WindowsServer/ProjectWar/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.04.04-21.07.44:904][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.04-21.07.44:904][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.04.04-21.07.44:905][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:905][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.04-21.07.44:906][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.04.04-21.07.44:908][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.04.04-21.07.44:910][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2023.04.04-21.07.44:911][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.04.04-21.07.44:911][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2023.04.04-21.07.44:914][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:0]]
+[2023.04.04-21.07.44:914][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2023.04.04-21.07.44:915][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2023.04.04-21.07.44:916][  0]LogConfig: Setting CVar [[r.DistanceFields.ThrottleCopyToAtlasInBytes:1024]]
+[2023.04.04-21.07.44:917][  0]LogConfig: Setting CVar [[r.HeightFields.AtlasDimInTiles:32]]
+[2023.04.04-21.07.44:919][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2023.04.04-21.07.44:919][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2023.04.04-21.07.44:920][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2023.04.04-21.07.44:920][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:1]]
+[2023.04.04-21.07.44:920][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:1]]
+[2023.04.04-21.07.44:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:923][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.04-21.07.44:924][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2023.04.04-21.07.44:924][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.04-21.07.44:924][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.04-21.07.44:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.04-21.07.44:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.04-21.07.44:925][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.04-21.07.44:925][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.04-21.07.44:925][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.04-21.07.44:925][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.04-21.07.44:925][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.04-21.07.44:926][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.04-21.07.44:926][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.04-21.07.44:926][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.04-21.07.44:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:926][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.04-21.07.44:926][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.04-21.07.44:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.04-21.07.44:928][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.04-21.07.44:929][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:929][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:929][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-21.07.44:929][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-21.07.44:929][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-21.07.44:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-21.07.44:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-21.07.44:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-21.07.44:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-21.07.44:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-21.07.44:931][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-21.07.44:931][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-21.07.44:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-21.07.44:931][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-21.07.44:932][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-21.07.44:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-21.07.44:933][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-21.07.44:933][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-21.07.44:933][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:933][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-21.07.44:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-21.07.44:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-21.07.44:935][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-21.07.44:935][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-21.07.44:935][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-21.07.44:935][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-21.07.44:935][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-21.07.44:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-21.07.44:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-21.07.44:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-21.07.44:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-21.07.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-21.07.44:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-21.07.44:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-21.07.44:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-21.07.44:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-21.07.44:943][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-21.07.44:943][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-21.07.44:944][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-21.07.44:944][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-21.07.44:944][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:4000]]
+[2023.04.04-21.07.44:944][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-21.07.44:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-21.07.44:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-21.07.44:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-21.07.44:945][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-21.07.44:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-21.07.44:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-21.07.44:947][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-21.07.44:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-21.07.44:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-21.07.44:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-21.07.44:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-21.07.44:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-21.07.44:949][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-21.07.44:950][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.04.04-21.07.44:950][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:950][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-21.07.44:950][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-21.07.44:950][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:950][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-21.07.44:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-21.07.44:951][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-21.07.44:951][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.04.04-21.07.44:951][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.04.04-21.07.44:951][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2023.04.04-21.07.44:952][  0]LogHAL: Display: Platform has ~ 64 GB [68612116480 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.04-21.07.44:952][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.04.04-21.07.44:952][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.04-21.07.44:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-21.07.44:953][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-21.07.44:955][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:957][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-21.07.44:957][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:957][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-21.07.44:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-21.07.44:959][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-21.07.44:959][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-21.07.44:959][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-21.07.44:960][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-21.07.44:960][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-21.07.44:960][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-21.07.44:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-21.07.44:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-21.07.44:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-21.07.44:961][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-21.07.44:961][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-21.07.44:961][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:961][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-21.07.44:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-21.07.44:962][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-21.07.44:963][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-21.07.44:964][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-21.07.44:964][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-21.07.44:964][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-21.07.44:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-21.07.44:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-21.07.44:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-21.07.44:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-21.07.44:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-21.07.44:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-21.07.44:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-21.07.44:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-21.07.44:968][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-21.07.44:968][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-21.07.44:968][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:4000]]
+[2023.04.04-21.07.44:968][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-21.07.44:968][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:968][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-21.07.44:969][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-21.07.44:970][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-21.07.44:971][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-21.07.44:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-21.07.44:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-21.07.44:972][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-21.07.44:972][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-21.07.44:972][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-21.07.44:973][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-21.07.44:973][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-21.07.44:973][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-21.07.44:973][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-21.07.44:973][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-21.07.44:974][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-21.07.44:974][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-21.07.44:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-21.07.44:974][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-21.07.44:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-21.07.44:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-21.07.44:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-21.07.44:975][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-21.07.44:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-21.07.44:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-21.07.44:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-21.07.44:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-21.07.44:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-21.07.44:977][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-21.07.44:977][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.04.04-21.07.44:977][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:977][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-21.07.44:978][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-21.07.44:978][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.44:978][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-21.07.44:978][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-21.07.44:978][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-21.07.44:979][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.04.04-21.07.44:979][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.44:979][  0]LogInit: Computer: DESKTOP-2UT7HUG
+[2023.04.04-21.07.44:979][  0]LogInit: User: admin
+[2023.04.04-21.07.44:979][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.04-21.07.44:979][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.04-21.07.44:980][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.04.04-21.07.44:980][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2023.04.04-21.07.44:980][  0]LogMemory: Process Physical Memory: 113.27 MB used, 113.28 MB peak
+[2023.04.04-21.07.44:980][  0]LogMemory: Process Virtual Memory: 119.48 MB used, 119.48 MB peak
+[2023.04.04-21.07.44:980][  0]LogMemory: Physical Memory: 16752.73 MB used,  48680.89 MB free, 65433.61 MB total
+[2023.04.04-21.07.44:980][  0]LogMemory: Virtual Memory: 134099056.00 MB used,  118672.45 MB free, 134217728.00 MB total
+[2023.04.04-21.07.44:984][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2023.04.04-21.07.44:984][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.04-21.07.44:985][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2023.04.04-21.07.44:986][  0]LogInit: Using OS detected language (zh-CN).
+[2023.04.04-21.07.44:987][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.04.04-21.07.44:987][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.04.04-21.07.44:987][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.04.04-21.07.44:999][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.04-21.07.45:000][  0]LogInit: Using OS detected language (zh-CN).
+[2023.04.04-21.07.45:002][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.04.04-21.07.45:003][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.04.04-21.07.45:003][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.04.04-21.07.45:006][  0]LogTextLocalizationManager: Compacting localization data took   0.62ms
+[2023.04.04-21.07.45:006][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2023.04.04-21.07.45:068][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.04.04-21.07.45:068][  0]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.000098 seconds
+[2023.04.04-21.07.45:070][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.04.04-21.07.45:071][  0]LogInit: Active device profile: [000001A2D35D9400][000001A2CF91C010 49] WindowsServer
+[2023.04.04-21.07.45:071][  0]LogInit: Profiles: [000001A2D35D6580][000001A2CF91D560 49] Windows, [000001A2D35D9400][000001A2CF91C010 49] WindowsServer, 
+[2023.04.04-21.07.45:077][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2023.04.04-21.07.45:081][  0]LogNetVersion: ProjectWar 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 484310228)
+[2023.04.04-21.07.45:096][  0]LogStreaming: Error: Couldn't find file for package /Engine/EngineFonts/Roboto requested by async loading code. NameToLoad: /Engine/EngineFonts/Roboto
+[2023.04.04-21.07.45:096][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.04.04-21.07.45:135][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-21.07.45:135][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-21.07.45:140][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2023.04.04-21.07.45:146][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__ConstructHouseFlag. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.04.04-21.07.45:176][  0]LogUObjectArray: 25645 objects as part of root set at end of initial load.
+[2023.04.04-21.07.45:176][  0]LogUObjectAllocator: 8482824 out of 0 bytes used by permanent object pool.
+[2023.04.04-21.07.45:176][  0]LogUObjectArray: CloseDisregardForGC: 25645/0 objects in disregard for GC pool
+[2023.04.04-21.07.45:180][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2023.04.04-21.07.45:181][  0]LogSteamShared: Steam SDK Loaded!
+[2023.04.04-21.07.45:181][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.04-21.07.45:182][  0]LogEngine: Initializing Engine...
+[2023.04.04-21.07.45:187][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.04-21.07.45:188][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.04-21.07.45:188][  0]LogInit: Texture streaming: Disabled
+[2023.04.04-21.07.45:192][  0]LogConsoleManager: Warning: Setting the console variable 'r.VSync' with 'SetByGameSetting' was ignored as it is lower priority than the previous 'SetByCode'. Value remains '1'
+[2023.04.04-21.07.45:197][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.07.45:198][  0]LogInit: Display: Game Engine Initialized.
+[2023.04.04-21.07.45:201][  0]LogNetworkPrediction: ModelDefs LatentNetSim and MockNetSim have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:201][  0]LogNetworkPrediction: ModelDefs MockCharacterAbilityModelDef and MockAbilityModelDef have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:202][  0]LogNetworkPrediction: ModelDefs MockCharacterAbilityModelDef and MockAbilityModelDef have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:204][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and CharacterMotion have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs CharacterMotion and FlyingMovement have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs CharacterMotion and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:205][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and FlyingMovement have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:206][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:206][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:206][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.45:208][  0]LogInit: Display: Starting Game.
+[2023.04.04-21.07.45:208][  0]LogNet: Browse: /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1?Name=Player?Listen?MaxPlayers=100
+[2023.04.04-21.07.45:209][  0]LogLoad: LoadMap: /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1?Name=Player?Listen?MaxPlayers=100
+[2023.04.04-21.07.45:209][  0]LogWorld: BeginTearingDown for /Temp/Untitled_13
+[2023.04.04-21.07.45:209][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.07.45:210][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.04-21.07.45:691][  0]LogEnum: Warning: In asset 'None', there is an enum property of type 'EWeatherCate' with an invalid value of 'EWeatherCate::EWeatherCate_MAX'
+[2023.04.04-21.07.45:692][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Banana/FPP_Male_Banana_Eat_Montage.FPP_Male_Banana_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:693][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Bottle/FPP_Male_Bottle_Eat_Montage.FPP_Male_Bottle_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 5.833333. One of them will not get triggered!
+[2023.04.04-21.07.45:694][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Carrot/FPP_Male_Carrot_Eat_Montage.FPP_Male_Carrot_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.45:695][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Chili/FPP_Male_Potherb_Eat_Montage.FPP_Male_Potherb_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:695][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/chips/FPP_Male_chips_Eat_Montage.FPP_Male_chips_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.166667. One of them will not get triggered!
+[2023.04.04-21.07.45:696][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/MedicaBag/FPP_Male_MedicalBag_recover_Montage.FPP_Male_MedicalBag_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 6.500000. One of them will not get triggered!
+[2023.04.04-21.07.45:696][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Mushrooms/FPP_Male_Mushrooms_Eat_Montage.FPP_Male_Mushrooms_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.100000. One of them will not get triggered!
+[2023.04.04-21.07.45:696][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastedCorn/FPP_Male_RoastedCorn_Eat_Montage.FPP_Male_RoastedCorn_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:697][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastFish/FPP_Male_RoastFish_Eat_Montage.FPP_Male_RoastFish_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:697][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastIivestockMeat/FPP_Male_RoastIivestockMeat_Eat_Montage.FPP_Male_RoastIivestockMeat_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:697][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/ScaldRepairCream/FPP_Male_ScaldRepairCream_BiindUp_Montage.FPP_Male_ScaldRepairCream_BiindUp_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 4.066667. One of them will not get triggered!
+[2023.04.04-21.07.45:698][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SimpleBandage/FPP_Male_SimpleBandage_BindUp_Montage.FPP_Male_SimpleBandage_BindUp_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 3.666667. One of them will not get triggered!
+[2023.04.04-21.07.45:698][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SimpleSutureBag/FPP_Male_SimpleSutureBag_recover_Montage.FPP_Male_SimpleSutureBag_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 8.500000. One of them will not get triggered!
+[2023.04.04-21.07.45:698][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SK_EggFriedRice/FPP_Male_EggFriedRice_Eat_Montage.FPP_Male_EggFriedRice_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.166667. One of them will not get triggered!
+[2023.04.04-21.07.45:699][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Splint/FPP_Male_Splint02_recover_Montage.FPP_Male_Splint02_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.45:699][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Splint/FPP_Male_Splint_recover_Montage.FPP_Male_Splint_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.45:699][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Sugarcane/FPP_Male_Sugarcane_Eat_Montage.FPP_Male_Sugarcane_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.45:700][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Tomato/FPP_Male_Tomato_Eat_Montage.FPP_Male_Tomato_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.45:700][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Watermelon/FPP_Male_Watermelon_Eat_Montage.FPP_Male_Watermelon_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 1.933333. One of them will not get triggered!
+[2023.04.04-21.07.45:721][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.07.45:721][  0]LogAIModule: Creating AISystem for world HeavenIsland_Start_1
+[2023.04.04-21.07.45:722][  0]LogLoad: Game class is 'BP_Test_GameMode_Game_C'
+[2023.04.04-21.07.45:722][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.04-21.07.45:723][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.04-21.07.45:723][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2023.04.04-21.07.45:723][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.04-21.07.45:723][  0]LogNet: GameNetDriver IpNetDriver_2147482524 IpNetDriver listening on port 7777
+[2023.04.04-21.07.45:724][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/height/height_x2_y1) is flushing async loading
+[2023.04.04-21.07.45:754][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.45:767][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/Near_Level/N_x2_y1) is flushing async loading
+[2023.04.04-21.07.45:768][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/HeavenIsland_Plan) is flushing async loading
+[2023.04.04-21.07.45:769][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/Far_Level/F_x2_y1) is flushing async loading
+[2023.04.04-21.07.45:794][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.45:800][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/SpawnVolume/SV_x2_y1) is flushing async loading
+[2023.04.04-21.07.45:801][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.45:821][  0]LogWorld: Bringing World /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1.HeavenIsland_Start_1 up for play (max tick rate 60) at 2023.04.04-21.07.45
+[2023.04.04-21.07.45:825][  0]LogWorld: Bringing up level for play took: 0.023233
+[2023.04.04-21.07.45:825][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (2145792) to: (2097152) for RecastNavMesh /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1.HeavenIsland_Start_1:PersistentLevel.RecastNavMesh-Default
+[2023.04.04-21.07.45:843][  0]LogSaveGame: start restore world, name=HeavenIsland_Start_1.
+[2023.04.04-21.07.45:844][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.45:845][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.45:845][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.45:845][  0]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.45:846][  0]AnimBlueprintLog: Warning: SLOTNODE: 'AimTransition' in animation instance class ABP_FPP_Base_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.45:846][  0]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_FPP_Base_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.46:774][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/838d1e9eNoDeps.bin, size=24)
+[2023.04.04-21.07.46:775][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/7a41f454NoDeps.bin, size=24)
+[2023.04.04-21.07.46:776][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/c61ba591NoDeps.bin, size=24)
+[2023.04.04-21.07.46:776][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/345dfe68NoDeps.bin, size=24)
+[2023.04.04-21.07.46:776][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/cd32f72cNoDeps.bin, size=24)
+[2023.04.04-21.07.46:777][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/333f72baNoDeps.bin, size=24)
+[2023.04.04-21.07.46:777][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/6b2a13a1NoDeps.bin, size=24)
+[2023.04.04-21.07.46:777][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/e4691053NoDeps.bin, size=24)
+[2023.04.04-21.07.46:779][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/9c0d38abNoDeps.bin, size=24)
+[2023.04.04-21.07.46:780][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/894bf79cNoDeps.bin, size=24)
+[2023.04.04-21.07.46:780][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/9bebf41cNoDeps.bin, size=24)
+[2023.04.04-21.07.46:782][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/2dfed214NoDeps.bin, size=24)
+[2023.04.04-21.07.46:783][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/208e45bfNoDeps.bin, size=24)
+[2023.04.04-21.07.46:783][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/619e3bb0NoDeps.bin, size=24)
+[2023.04.04-21.07.46:784][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/a2a5b1f1NoDeps.bin, size=24)
+[2023.04.04-21.07.46:784][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/4b1680e0NoDeps.bin, size=24)
+[2023.04.04-21.07.46:784][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ab4fb331NoDeps.bin, size=24)
+[2023.04.04-21.07.46:785][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/2b10632bNoDeps.bin, size=24)
+[2023.04.04-21.07.46:785][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5f0cb804NoDeps.bin, size=24)
+[2023.04.04-21.07.46:786][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/4bb4ef46NoDeps.bin, size=24)
+[2023.04.04-21.07.46:786][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/86ccb267NoDeps.bin, size=24)
+[2023.04.04-21.07.46:786][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/abd057e4NoDeps.bin, size=24)
+[2023.04.04-21.07.46:787][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ccdefb30NoDeps.bin, size=24)
+[2023.04.04-21.07.46:787][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/344146d8NoDeps.bin, size=24)
+[2023.04.04-21.07.46:787][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5c0679b4NoDeps.bin, size=24)
+[2023.04.04-21.07.46:787][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/61c7e9c8NoDeps.bin, size=24)
+[2023.04.04-21.07.46:788][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5aa55150NoDeps.bin, size=24)
+[2023.04.04-21.07.46:788][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/b10d5fccNoDeps.bin, size=24)
+[2023.04.04-21.07.46:788][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/7b02a857NoDeps.bin, size=24)
+[2023.04.04-21.07.46:789][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/1d7542eeNoDeps.bin, size=24)
+[2023.04.04-21.07.46:789][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/772f6931NoDeps.bin, size=24)
+[2023.04.04-21.07.46:789][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/1de6553cNoDeps.bin, size=24)
+[2023.04.04-21.07.46:789][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/b331e729NoDeps.bin, size=24)
+[2023.04.04-21.07.46:790][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/f7f7e171NoDeps.bin, size=24)
+[2023.04.04-21.07.46:790][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/c4663241NoDeps.bin, size=24)
+[2023.04.04-21.07.46:790][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/671b2e27NoDeps.bin, size=24)
+[2023.04.04-21.07.46:791][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/49f14d2eNoDeps.bin, size=24)
+[2023.04.04-21.07.46:791][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ba3e9b51NoDeps.bin, size=24)
+[2023.04.04-21.07.46:791][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/e60c7243NoDeps.bin, size=24)
+[2023.04.04-21.07.46:791][  0]LogDataTable: Display: Load DataTable: Table_ActorRandomItemsPackage | ActorRandomItemsPackage.
+[2023.04.04-21.07.46:791][  0]LogDataTable: Display: Load DataTable: Table_CollectableResource | ResourceConfig.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_CollectMethodDesc | CollectMethodDesc.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_ConstructLevel | ConstructResourceRow.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_HardwareAbility | HardAbilityLevel.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_InteactActor | InteactActorConfig.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_Interact | InteactConfig.
+[2023.04.04-21.07.46:792][  0]LogDataTable: Display: Load DataTable: Table_PhysicMat | PhyMaterialTable.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: Table_RandomItemsPackage | RandomItemsPackage.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: Table_SpawnPointObjects | SpawnPointObjectRow.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: Table_SupplyChest | SupplyChestConfig.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: Table_SupplyDepot | SupplyDepotConfig.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow | AnimationConfigs_Bow.
+[2023.04.04-21.07.46:793][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow_1P | AnimationConfigs_Bow_1P.
+[2023.04.04-21.07.46:794][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm | AnimationConfigs_Firearm.
+[2023.04.04-21.07.46:795][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm_1P | AnimationConfigs_Firearm_1P.
+[2023.04.04-21.07.46:795][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool | AnimationConfigs_HandTool.
+[2023.04.04-21.07.46:795][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool_1P | AnimationConfigs_HandTool_1P.
+[2023.04.04-21.07.46:795][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower | AnimationConfigs_Thrower.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower_1P | AnimationConfigs_Thrower_1P.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: Table_AttackCityRandomNpcBagConfig | AttackCityRandomNpcBagConfig.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: Table_MonsterACConfig | MonsterACConfig.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: Table_MonsterAttackCityActivity | MonsterAttackCity.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: Table_NpcAttackCityRandomConfig | NpcAttackCityRandomConfig.
+[2023.04.04-21.07.46:796][  0]LogDataTable: Display: Load DataTable: DT_ShopItem | BattleShopItem.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_EventConfig | EventConfig.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_FighterConfig | FighterCharacterConfig.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_FighterPack | AttributeMetaData.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_NpcConfig | NpcConfig.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_NpcPack | CharacterAttributePack.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_NPCWeaponConfig | NPCWeaponConfig.
+[2023.04.04-21.07.46:797][  0]LogDataTable: Display: Load DataTable: Table_GameplayEffect | GameplayEffectConfig.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_AvatarItem | AvatarEquipItem.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_ConstructItems | HandConstructItem.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_Consumable | ConsumableItem.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_ItemRarity | ItemRarityConfig.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_MadeDrawingItem | MadeDrawingItem.
+[2023.04.04-21.07.46:798][  0]LogDataTable: Display: Load DataTable: DT_ResourceItems | ItemBase.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_Seeds | HandSeeds.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_Ammo | AmmoItem.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_Ammo_Specific | AmmoSpecific.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_AA_Specific | AvatarAttachmentSpecific.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_AvatarAttachment | AvatarAttachment.
+[2023.04.04-21.07.46:799][  0]LogDataTable: Display: Load DataTable: DT_FirearmModule | FMItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HI_Firearm | FirearmItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool | HandToolItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool_BRC | BombRemoteControllerItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HI_HandVehicle | HandVehicleItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HI_Thrower | ThrowerItem.
+[2023.04.04-21.07.46:800][  0]LogDataTable: Display: Load DataTable: DT_HandItemAttachment | HandItemAttachment.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_Bright | Bright.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_Grip | Grip.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_HandTool | HandToolAttachment.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_Magazine | Magazine.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_Sight | Sight.
+[2023.04.04-21.07.46:801][  0]LogDataTable: Display: Load DataTable: DT_HIA_Stock | Stock.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: DT_HIA_Suppressor | Suppressor.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: LeveExpConfig | LevelConfig.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: MapAreaConfig | MapAreaConfig.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: MapMarkConfig | MapMarkConfig.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: NotificationData | DefaultNotifyText.
+[2023.04.04-21.07.46:802][  0]LogDataTable: Display: Load DataTable: DailyQuestConfig | DailyQuestConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: LevelQuestConfig | LevelQuestConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: QuestConfig | QuestConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: DT_RecipeConfig | RecipeConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: DT_RecipeGroup | RecipeGroupConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: DT_ShopConfig | ShopConfig.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: Table_Talent | TalentDataBase.
+[2023.04.04-21.07.46:803][  0]LogDataTable: Display: Load DataTable: DT_TextFontStyle | RichTextStyleRow.
+[2023.04.04-21.07.46:804][  0]LogDataTable: Display: Load DataTable: Table_Vehicle | VehicleConfig.
+[2023.04.04-21.07.46:804][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmo | VehicleAmmoConfig.
+[2023.04.04-21.07.46:804][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmoItem | VehicleAmmoItemConfig.
+[2023.04.04-21.07.46:804][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquip | VehicleEquipConfig.
+[2023.04.04-21.07.46:804][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquipItem | VehicleEquipItemConfig.
+[2023.04.04-21.07.46:805][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeapon | VehicleWeaponConfig.
+[2023.04.04-21.07.46:805][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeaponItem | VehicleWeaponItemConfig.
+[2023.04.04-21.07.46:805][  0]LogDataTable: Display: Loaded. DataTables: 76, AssetDataList: 76.
+[2023.04.04-21.07.46:834][  0]LogSaveGame: restore world complete, milliseconds=990.835700, restored total=1, spawned=1, failed=0, characters=1, constructions=0
+[2023.04.04-21.07.46:840][  0]LogFPS: Error: copper, mesh=/Game/Root/Environment/Collectable/CopperMineral/SM_M_CopperMineral.SM_M_CopperMineral, object=BP_ResourceISMComponent_C_12, add to physics sence=true
+[2023.04.04-21.07.46:842][  0]LogFPS: Error: copper, mesh=/Game/Root/Environment/Collectable/CopperMineral/SM_M_CopperMineral.SM_M_CopperMineral, object=BP_ResourceISMComponent_C_3, add to physics sence=true
+[2023.04.04-21.07.46:847][  0]LogDBCollectService: isserver:1 isedit:0 enable:0 islobby:0
+[2023.04.04-21.07.46:847][  0]LogLoad: Took 1.638837 seconds to LoadMap(/Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1)
+[2023.04.04-21.07.46:848][  0]LogStreaming: Warning: Failed to read file '../../../ProjectWar/Saved/AssetCache.dat' error.
+[2023.04.04-21.07.46:849][  0]LogDataTable: Display: Load DataTable: Table_ActorRandomItemsPackage | ActorRandomItemsPackage.
+[2023.04.04-21.07.46:849][  0]LogDataTable: Display: Load DataTable: Table_CollectableResource | ResourceConfig.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_CollectMethodDesc | CollectMethodDesc.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_ConstructLevel | ConstructResourceRow.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_HardwareAbility | HardAbilityLevel.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_InteactActor | InteactActorConfig.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_Interact | InteactConfig.
+[2023.04.04-21.07.46:850][  0]LogDataTable: Display: Load DataTable: Table_PhysicMat | PhyMaterialTable.
+[2023.04.04-21.07.46:851][  0]LogDataTable: Display: Load DataTable: Table_RandomItemsPackage | RandomItemsPackage.
+[2023.04.04-21.07.46:851][  0]LogDataTable: Display: Load DataTable: Table_SpawnPointObjects | SpawnPointObjectRow.
+[2023.04.04-21.07.46:851][  0]LogDataTable: Display: Load DataTable: Table_SupplyChest | SupplyChestConfig.
+[2023.04.04-21.07.46:851][  0]LogDataTable: Display: Load DataTable: Table_SupplyDepot | SupplyDepotConfig.
+[2023.04.04-21.07.46:851][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow | AnimationConfigs_Bow.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow_1P | AnimationConfigs_Bow_1P.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm | AnimationConfigs_Firearm.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm_1P | AnimationConfigs_Firearm_1P.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool | AnimationConfigs_HandTool.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool_1P | AnimationConfigs_HandTool_1P.
+[2023.04.04-21.07.46:852][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower | AnimationConfigs_Thrower.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower_1P | AnimationConfigs_Thrower_1P.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: Table_AttackCityRandomNpcBagConfig | AttackCityRandomNpcBagConfig.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: Table_MonsterACConfig | MonsterACConfig.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: Table_MonsterAttackCityActivity | MonsterAttackCity.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: Table_NpcAttackCityRandomConfig | NpcAttackCityRandomConfig.
+[2023.04.04-21.07.46:853][  0]LogDataTable: Display: Load DataTable: DT_ShopItem | BattleShopItem.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_EventConfig | EventConfig.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_FighterConfig | FighterCharacterConfig.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_FighterPack | AttributeMetaData.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_NpcConfig | NpcConfig.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_NpcPack | CharacterAttributePack.
+[2023.04.04-21.07.46:854][  0]LogDataTable: Display: Load DataTable: Table_NPCWeaponConfig | NPCWeaponConfig.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: Table_GameplayEffect | GameplayEffectConfig.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_AvatarItem | AvatarEquipItem.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_ConstructItems | HandConstructItem.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_Consumable | ConsumableItem.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_ItemRarity | ItemRarityConfig.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_MadeDrawingItem | MadeDrawingItem.
+[2023.04.04-21.07.46:855][  0]LogDataTable: Display: Load DataTable: DT_ResourceItems | ItemBase.
+[2023.04.04-21.07.46:858][  0]LogDataTable: Display: Load DataTable: DT_Seeds | HandSeeds.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_Ammo | AmmoItem.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_Ammo_Specific | AmmoSpecific.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_AA_Specific | AvatarAttachmentSpecific.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_AvatarAttachment | AvatarAttachment.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_FirearmModule | FMItem.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_HI_Firearm | FirearmItem.
+[2023.04.04-21.07.46:860][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool | HandToolItem.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool_BRC | BombRemoteControllerItem.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HI_HandVehicle | HandVehicleItem.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HI_Thrower | ThrowerItem.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HandItemAttachment | HandItemAttachment.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HIA_Bright | Bright.
+[2023.04.04-21.07.46:861][  0]LogDataTable: Display: Load DataTable: DT_HIA_Grip | Grip.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: DT_HIA_HandTool | HandToolAttachment.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: DT_HIA_Magazine | Magazine.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: DT_HIA_Sight | Sight.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: DT_HIA_Stock | Stock.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: DT_HIA_Suppressor | Suppressor.
+[2023.04.04-21.07.46:862][  0]LogDataTable: Display: Load DataTable: LeveExpConfig | LevelConfig.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: MapAreaConfig | MapAreaConfig.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: MapMarkConfig | MapMarkConfig.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: NotificationData | DefaultNotifyText.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: DailyQuestConfig | DailyQuestConfig.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: LevelQuestConfig | LevelQuestConfig.
+[2023.04.04-21.07.46:863][  0]LogDataTable: Display: Load DataTable: QuestConfig | QuestConfig.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: DT_RecipeConfig | RecipeConfig.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: DT_RecipeGroup | RecipeGroupConfig.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: DT_ShopConfig | ShopConfig.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: Table_Talent | TalentDataBase.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: DT_TextFontStyle | RichTextStyleRow.
+[2023.04.04-21.07.46:864][  0]LogDataTable: Display: Load DataTable: Table_Vehicle | VehicleConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmo | VehicleAmmoConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmoItem | VehicleAmmoItemConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquip | VehicleEquipConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquipItem | VehicleEquipItemConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeapon | VehicleWeaponConfig.
+[2023.04.04-21.07.46:865][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeaponItem | VehicleWeaponItemConfig.
+[2023.04.04-21.07.46:866][  0]LogDataTable: Display: Loaded. DataTables: 76, AssetDataList: 76.
+[2023.04.04-21.07.46:869][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.04-21.07.46:869][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.04-21.07.46:869][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 23222
+[2023.04.04-21.07.46:870][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.04-21.07.46:870][  0]LogNet: IpNetDriver_2147482211 IpNetDriver_2147482211 IpNetDriver listening on port 23222
+[2023.04.04-21.07.46:870][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.04-21.07.46:870][  0]LogLoad: (Engine Initialization) Total time: 2.32 seconds
+[2023.04.04-21.07.53:008][363]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:010][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:010][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:011][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:011][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:011][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:011][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:011][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:012][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:012][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:012][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:012][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:013][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:013][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.53:013][364]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:225][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:225][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:233][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:233][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:234][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:235][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:235][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:235][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.58:235][680]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:393][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:393][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:394][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:394][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:395][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:395][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:395][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:395][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:395][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:396][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:396][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:396][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:396][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.03:396][992]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:949][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:952][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:954][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:956][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:956][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:956][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:957][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:958][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:958][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.08:958][322]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:142][636]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:144][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:144][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:144][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:144][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:145][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:145][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:145][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:145][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:145][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.14:146][637]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:635][962]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:637][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:637][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:638][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:638][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:638][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:639][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:639][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:639][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:639][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:639][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:640][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:640][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:640][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.19:640][963]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:865][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:865][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:866][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:867][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:867][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:867][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:867][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:867][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:868][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:868][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:868][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:868][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:869][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.24:869][279]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:170][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:170][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:171][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:172][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:172][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:172][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.30:172][600]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.35:454][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:011][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:011][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:012][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:012][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:012][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:012][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:013][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.38:014][920]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:327][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:327][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:328][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:328][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:329][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:329][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:329][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:330][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:333][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:333][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:334][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:334][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:334][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:334][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.43:334][241]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:576][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:576][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:577][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:577][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:577][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:577][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:578][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:579][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.48:579][560]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:864][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:864][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:865][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:865][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:866][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:866][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:866][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:866][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:866][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:867][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:867][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:867][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:867][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.53:867][880]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.08.59:172][202]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.04:448][520]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.04:448][520]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.04:449][520]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.04:449][520]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.04:449][520]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:725][840]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:727][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:728][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:729][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:729][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.09:729][841]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.14:998][160]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.14:998][160]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:231][477]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:234][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:234][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:235][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:236][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:236][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:236][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:236][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:236][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:237][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:237][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:237][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:237][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:237][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.20:238][478]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:506][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:506][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:507][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.25:508][797]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:786][115]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:788][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:788][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:788][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:788][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:788][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.30:789][116]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.36:017][430]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.41:259][748]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.41:259][748]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.41:261][748]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.41:262][748]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.41:262][748]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:508][ 66]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:511][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.46:512][ 67]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:732][383]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:734][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:735][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:735][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:735][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.51:735][384]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.56:992][702]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.56:993][702]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.56:993][702]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.56:993][702]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.09.56:994][702]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:282][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:282][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:283][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:283][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:283][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:283][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:285][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:285][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.02:286][ 23]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:477][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:477][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:478][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:478][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:478][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:479][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:480][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:480][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.07:480][339]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:724][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:724][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:725][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:726][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.12:727][657]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.17:999][976]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:002][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:004][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:004][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.18:005][977]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:268][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:268][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:269][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:269][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:269][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:269][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:269][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.23:270][297]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:038][630]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:042][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:045][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.29:046][631]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:438][957]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:441][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:441][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:441][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:441][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:441][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.34:442][958]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:837][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:837][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:840][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:841][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:842][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:842][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:843][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:843][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:844][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:844][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:845][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:846][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:847][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:848][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.39:848][284]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:211][609]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:213][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:213][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:213][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:214][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:214][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:214][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.45:215][610]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:645][937]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:647][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:647][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:648][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:648][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:648][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:648][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:649][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:649][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:649][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:649][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:649][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:650][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:650][938]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.10.50:650][938]LogTemp: LockFree Tag has overflowed...(not a problem).

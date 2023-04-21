@@ -1,0 +1,794 @@
+﻿Log file open, 04/04/23 21:07:24
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 18 total threads with 1 sets of task threads.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LiveLinkControlRig
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin Volumetrics
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin NetworkPrediction
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin NetworkPredictionExtras
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin AdvancedProceduralFoliage
+LogPluginManager: Mounting plugin CameraTracker
+LogPluginManager: Mounting plugin AsyncLoadingScreen
+LogPluginManager: Mounting plugin EditorUtilityExtension
+LogPluginManager: Mounting plugin DBCollectPlugin
+LogPluginManager: Mounting plugin KW_LandscapeMat
+LogPluginManager: Mounting plugin EnhancedWidget
+LogPluginManager: Mounting plugin GASAttachEditor
+LogPluginManager: Mounting plugin NiagaraUIRenderer
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin Riverology_Plugin
+LogPluginManager: Mounting plugin Strider
+LogPluginManager: Mounting plugin PrefabTool
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin ProInstanceToolsPlugin
+LogPluginManager: Mounting plugin UIWS
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Null
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Null]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Feb 28 2023 11:54:24
+LogInit: Compiled with Visual C++: 19.29.30143.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  HeavenIsland_Start_1?Listen?MaxPlayers=100 -server -game -ServerName=lukailanMobile -log log=ProjectWarServer.log -locallogtimes -EnableParallelTickFunction -UseDynamicPhysicsScene -BeaconPort=23222 -GrowUpExpRatio=1 -GainRate=1 -FoliageRestoreRate=1 -SaveGame=true
+LogInit: Base Directory: E:/server/WindowsServer/ProjectWar/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.04.04-21.07.24:369][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.04-21.07.24:370][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.04.04-21.07.24:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:371][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.04-21.07.24:371][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.04.04-21.07.24:372][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.04.04-21.07.24:372][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2023.04.04-21.07.24:373][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.04.04-21.07.24:373][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2023.04.04-21.07.24:374][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:0]]
+[2023.04.04-21.07.24:374][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2023.04.04-21.07.24:374][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2023.04.04-21.07.24:374][  0]LogConfig: Setting CVar [[r.DistanceFields.ThrottleCopyToAtlasInBytes:1024]]
+[2023.04.04-21.07.24:375][  0]LogConfig: Setting CVar [[r.HeightFields.AtlasDimInTiles:32]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:1]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:1]]
+[2023.04.04-21.07.24:376][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:377][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:377][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.04-21.07.24:377][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2023.04.04-21.07.24:377][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.04-21.07.24:378][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.04-21.07.24:378][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.04-21.07.24:378][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.04-21.07.24:379][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.04-21.07.24:379][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.04-21.07.24:381][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.04-21.07.24:383][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.04-21.07.24:383][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.04-21.07.24:383][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.04-21.07.24:383][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.04-21.07.24:384][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.04-21.07.24:384][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:384][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.04-21.07.24:384][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.04-21.07.24:391][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.04-21.07.24:391][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.04-21.07.24:391][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.04-21.07.24:391][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.04-21.07.24:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.04-21.07.24:392][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.04-21.07.24:393][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.04-21.07.24:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:393][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:393][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-21.07.24:393][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-21.07.24:393][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:394][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-21.07.24:394][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:394][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-21.07.24:394][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-21.07.24:394][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-21.07.24:395][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-21.07.24:396][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-21.07.24:398][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-21.07.24:398][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-21.07.24:398][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-21.07.24:398][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-21.07.24:398][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-21.07.24:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-21.07.24:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-21.07.24:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-21.07.24:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-21.07.24:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-21.07.24:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-21.07.24:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-21.07.24:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-21.07.24:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-21.07.24:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-21.07.24:401][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-21.07.24:402][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-21.07.24:402][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-21.07.24:402][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-21.07.24:402][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-21.07.24:402][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-21.07.24:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-21.07.24:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-21.07.24:405][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:405][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-21.07.24:405][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-21.07.24:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-21.07.24:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:4000]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-21.07.24:406][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-21.07.24:407][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-21.07.24:408][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-21.07.24:408][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-21.07.24:408][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-21.07.24:408][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-21.07.24:408][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-21.07.24:409][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-21.07.24:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-21.07.24:411][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.04.04-21.07.24:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:415][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-21.07.24:415][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-21.07.24:415][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:416][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-21.07.24:416][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-21.07.24:416][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-21.07.24:416][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.04.04-21.07.24:417][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.04.04-21.07.24:417][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2023.04.04-21.07.24:417][  0]LogHAL: Display: Platform has ~ 64 GB [68612116480 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.04-21.07.24:417][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.04.04-21.07.24:418][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.04-21.07.24:418][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:419][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.04-21.07.24:419][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.04-21.07.24:419][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:419][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.04-21.07.24:419][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:420][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.04-21.07.24:420][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.04-21.07.24:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.04-21.07.24:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.04-21.07.24:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.04-21.07.24:421][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.04-21.07.24:421][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.04-21.07.24:421][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.04-21.07.24:421][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.04-21.07.24:421][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.04-21.07.24:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.04-21.07.24:423][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.04-21.07.24:423][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.04-21.07.24:423][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:423][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.04-21.07.24:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.04-21.07.24:424][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.04-21.07.24:425][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.04-21.07.24:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.04-21.07.24:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.04-21.07.24:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.04-21.07.24:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.04-21.07.24:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.04-21.07.24:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.04-21.07.24:428][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.04-21.07.24:430][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.04-21.07.24:430][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.04-21.07.24:430][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.04-21.07.24:430][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.04-21.07.24:430][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.04-21.07.24:431][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.04-21.07.24:432][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.04-21.07.24:432][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:4000]]
+[2023.04.04-21.07.24:432][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.04-21.07.24:432][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:432][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.04-21.07.24:432][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.04-21.07.24:433][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.04-21.07.24:433][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.04-21.07.24:433][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.04-21.07.24:433][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.04-21.07.24:433][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.04-21.07.24:434][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.04-21.07.24:435][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.04-21.07.24:435][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.04-21.07.24:435][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.04-21.07.24:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.04-21.07.24:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.04-21.07.24:436][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.04.04-21.07.24:437][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:438][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.04-21.07.24:438][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.04-21.07.24:438][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../ProjectWar/Saved/Config/WindowsServer/Scalability.ini]
+[2023.04.04-21.07.24:438][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.04-21.07.24:438][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.04-21.07.24:439][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.04-21.07.24:439][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.04.04-21.07.24:439][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../ProjectWar/Saved/Config/WindowsServer/Engine.ini]
+[2023.04.04-21.07.24:439][  0]LogInit: Computer: DESKTOP-2UT7HUG
+[2023.04.04-21.07.24:439][  0]LogInit: User: admin
+[2023.04.04-21.07.24:439][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.04-21.07.24:440][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.04-21.07.24:440][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2023.04.04-21.07.24:440][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2023.04.04-21.07.24:440][  0]LogMemory: Process Physical Memory: 113.73 MB used, 113.73 MB peak
+[2023.04.04-21.07.24:440][  0]LogMemory: Process Virtual Memory: 120.12 MB used, 120.12 MB peak
+[2023.04.04-21.07.24:440][  0]LogMemory: Physical Memory: 16802.02 MB used,  48631.59 MB free, 65433.61 MB total
+[2023.04.04-21.07.24:441][  0]LogMemory: Virtual Memory: 134099104.00 MB used,  118623.00 MB free, 134217728.00 MB total
+[2023.04.04-21.07.24:446][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2023.04.04-21.07.24:446][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.04-21.07.24:447][  0]LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+[2023.04.04-21.07.24:448][  0]LogInit: Using OS detected language (zh-CN).
+[2023.04.04-21.07.24:448][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.04.04-21.07.24:448][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.04.04-21.07.24:449][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.04.04-21.07.24:462][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.04-21.07.24:462][  0]LogInit: Using OS detected language (zh-CN).
+[2023.04.04-21.07.24:462][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.04.04-21.07.24:462][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.04.04-21.07.24:463][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.04.04-21.07.24:465][  0]LogTextLocalizationManager: Compacting localization data took   0.61ms
+[2023.04.04-21.07.24:465][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2023.04.04-21.07.24:527][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.04.04-21.07.24:528][  0]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.000102 seconds
+[2023.04.04-21.07.24:529][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.04.04-21.07.24:530][  0]LogInit: Active device profile: [000002D35C949340][000002D358A5C010 49] WindowsServer
+[2023.04.04-21.07.24:530][  0]LogInit: Profiles: [000002D35C9464C0][000002D358A5D560 49] Windows, [000002D35C949340][000002D358A5C010 49] WindowsServer, 
+[2023.04.04-21.07.24:536][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2023.04.04-21.07.24:540][  0]LogNetVersion: ProjectWar 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 484310228)
+[2023.04.04-21.07.24:555][  0]LogStreaming: Error: Couldn't find file for package /Engine/EngineFonts/Roboto requested by async loading code. NameToLoad: /Engine/EngineFonts/Roboto
+[2023.04.04-21.07.24:557][  0]LogStreaming: Error: Found 0 dependent packages...
+[2023.04.04-21.07.24:597][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-21.07.24:597][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.04-21.07.24:601][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2023.04.04-21.07.24:607][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__ConstructHouseFlag. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.04.04-21.07.24:635][  0]LogUObjectArray: 25645 objects as part of root set at end of initial load.
+[2023.04.04-21.07.24:635][  0]LogUObjectAllocator: 8482824 out of 0 bytes used by permanent object pool.
+[2023.04.04-21.07.24:638][  0]LogUObjectArray: CloseDisregardForGC: 25645/0 objects in disregard for GC pool
+[2023.04.04-21.07.24:642][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2023.04.04-21.07.24:643][  0]LogSteamShared: Steam SDK Loaded!
+[2023.04.04-21.07.24:643][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.04-21.07.24:643][  0]LogEngine: Initializing Engine...
+[2023.04.04-21.07.24:648][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.04-21.07.24:648][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.04-21.07.24:648][  0]LogInit: Texture streaming: Disabled
+[2023.04.04-21.07.24:652][  0]LogConsoleManager: Warning: Setting the console variable 'r.VSync' with 'SetByGameSetting' was ignored as it is lower priority than the previous 'SetByCode'. Value remains '1'
+[2023.04.04-21.07.24:657][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.07.24:659][  0]LogInit: Display: Game Engine Initialized.
+[2023.04.04-21.07.24:661][  0]LogNetworkPrediction: ModelDefs LatentNetSim and MockNetSim have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:661][  0]LogNetworkPrediction: ModelDefs MockCharacterAbilityModelDef and MockAbilityModelDef have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:662][  0]LogNetworkPrediction: ModelDefs MockCharacterAbilityModelDef and MockAbilityModelDef have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:662][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:662][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and CharacterMotion have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:662][  0]LogNetworkPrediction: ModelDefs CharacterMotion and FlyingMovement have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:663][  0]LogNetworkPrediction: ModelDefs CharacterMotion and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:663][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:663][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:663][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and FlyingMovement have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:664][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and Generic Kinematic Actor have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:664][  0]LogNetworkPrediction: ModelDefs Generic Kinematic Actor and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:664][  0]LogNetworkPrediction: ModelDefs RoleCharacterMotion and ProjectVehicle have same sort priority. Using lexical sort as backup
+[2023.04.04-21.07.24:666][  0]LogInit: Display: Starting Game.
+[2023.04.04-21.07.24:667][  0]LogNet: Browse: /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1?Name=Player?Listen?MaxPlayers=100
+[2023.04.04-21.07.24:667][  0]LogLoad: LoadMap: /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1?Name=Player?Listen?MaxPlayers=100
+[2023.04.04-21.07.24:667][  0]LogWorld: BeginTearingDown for /Temp/Untitled_13
+[2023.04.04-21.07.24:667][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-21.07.24:669][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.04-21.07.25:163][  0]LogEnum: Warning: In asset 'None', there is an enum property of type 'EWeatherCate' with an invalid value of 'EWeatherCate::EWeatherCate_MAX'
+[2023.04.04-21.07.25:165][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Watermelon/FPP_Male_Watermelon_Eat_Montage.FPP_Male_Watermelon_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 1.933333. One of them will not get triggered!
+[2023.04.04-21.07.25:166][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Tomato/FPP_Male_Tomato_Eat_Montage.FPP_Male_Tomato_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:166][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Sugarcane/FPP_Male_Sugarcane_Eat_Montage.FPP_Male_Sugarcane_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.25:166][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Splint/FPP_Male_Splint_recover_Montage.FPP_Male_Splint_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.25:167][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Splint/FPP_Male_Splint02_recover_Montage.FPP_Male_Splint02_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.25:167][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SK_EggFriedRice/FPP_Male_EggFriedRice_Eat_Montage.FPP_Male_EggFriedRice_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.166667. One of them will not get triggered!
+[2023.04.04-21.07.25:168][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SimpleSutureBag/FPP_Male_SimpleSutureBag_recover_Montage.FPP_Male_SimpleSutureBag_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 8.500000. One of them will not get triggered!
+[2023.04.04-21.07.25:168][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/SimpleBandage/FPP_Male_SimpleBandage_BindUp_Montage.FPP_Male_SimpleBandage_BindUp_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 3.666667. One of them will not get triggered!
+[2023.04.04-21.07.25:169][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/ScaldRepairCream/FPP_Male_ScaldRepairCream_BiindUp_Montage.FPP_Male_ScaldRepairCream_BiindUp_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 4.066667. One of them will not get triggered!
+[2023.04.04-21.07.25:169][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastIivestockMeat/FPP_Male_RoastIivestockMeat_Eat_Montage.FPP_Male_RoastIivestockMeat_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:169][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastFish/FPP_Male_RoastFish_Eat_Montage.FPP_Male_RoastFish_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:170][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/RoastedCorn/FPP_Male_RoastedCorn_Eat_Montage.FPP_Male_RoastedCorn_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:170][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Mushrooms/FPP_Male_Mushrooms_Eat_Montage.FPP_Male_Mushrooms_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.100000. One of them will not get triggered!
+[2023.04.04-21.07.25:170][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/chips/FPP_Male_chips_Eat_Montage.FPP_Male_chips_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.166667. One of them will not get triggered!
+[2023.04.04-21.07.25:170][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Chili/FPP_Male_Potherb_Eat_Montage.FPP_Male_Potherb_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:171][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Carrot/FPP_Male_Carrot_Eat_Montage.FPP_Male_Carrot_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.066667. One of them will not get triggered!
+[2023.04.04-21.07.25:171][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Banana/FPP_Male_Banana_Eat_Montage.FPP_Male_Banana_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 2.000000. One of them will not get triggered!
+[2023.04.04-21.07.25:172][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/MedicaBag/FPP_Male_MedicalBag_recover_Montage.FPP_Male_MedicalBag_recover_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 6.500000. One of them will not get triggered!
+[2023.04.04-21.07.25:173][  0]LogAnimMontage: Warning: [AssetLog] /Game/Root/Animation/FPP/Eat/Bottle/FPP_Male_Bottle_Eat_Montage.FPP_Male_Bottle_Eat_Montage: Branching Point 'PlayMontageNotify_GameplayTag' overlaps with 'PlayMontageNotify_GameplayTag' at time: 5.833333. One of them will not get triggered!
+[2023.04.04-21.07.25:189][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-21.07.25:191][  0]LogAIModule: Creating AISystem for world HeavenIsland_Start_1
+[2023.04.04-21.07.25:191][  0]LogLoad: Game class is 'BP_Test_GameMode_Game_C'
+[2023.04.04-21.07.25:192][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.04-21.07.25:193][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.04-21.07.25:193][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2023.04.04-21.07.25:193][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.04-21.07.25:193][  0]LogNet: GameNetDriver IpNetDriver_2147482524 IpNetDriver listening on port 7777
+[2023.04.04-21.07.25:193][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/HeavenIsland_Plan) is flushing async loading
+[2023.04.04-21.07.25:194][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/height/height_x2_y1) is flushing async loading
+[2023.04.04-21.07.25:223][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.25:237][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/Near_Level/N_x2_y1) is flushing async loading
+[2023.04.04-21.07.25:237][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/Far_Level/F_x2_y1) is flushing async loading
+[2023.04.04-21.07.25:261][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.25:266][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Root/Map/OpenWorld_HeavenIsland/SpawnVolume/SV_x2_y1) is flushing async loading
+[2023.04.04-21.07.25:268][  0]LogLevel: Warning: Detected duplicate WorldSettings actor - UE-62934
+[2023.04.04-21.07.25:289][  0]LogWorld: Bringing World /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1.HeavenIsland_Start_1 up for play (max tick rate 60) at 2023.04.04-21.07.25
+[2023.04.04-21.07.25:292][  0]LogWorld: Bringing up level for play took: 0.024586
+[2023.04.04-21.07.25:292][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (2145792) to: (2097152) for RecastNavMesh /Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1.HeavenIsland_Start_1:PersistentLevel.RecastNavMesh-Default
+[2023.04.04-21.07.25:310][  0]LogSaveGame: start restore world, name=HeavenIsland_Start_1.
+[2023.04.04-21.07.25:313][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.25:314][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.25:314][  0]AnimBlueprintLog: Warning: SLOTNODE: 'HitResponse' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.25:314][  0]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_TPP_New_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.25:315][  0]AnimBlueprintLog: Warning: SLOTNODE: 'AimTransition' in animation instance class ABP_FPP_Base_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.25:315][  0]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_FPP_Base_C already exists. Remove duplicates from the animation graph for this class.
+[2023.04.04-21.07.26:257][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/838d1e9eNoDeps.bin, size=24)
+[2023.04.04-21.07.26:258][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/7a41f454NoDeps.bin, size=24)
+[2023.04.04-21.07.26:259][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/c61ba591NoDeps.bin, size=24)
+[2023.04.04-21.07.26:259][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/345dfe68NoDeps.bin, size=24)
+[2023.04.04-21.07.26:262][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/cd32f72cNoDeps.bin, size=24)
+[2023.04.04-21.07.26:263][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/333f72baNoDeps.bin, size=24)
+[2023.04.04-21.07.26:263][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/6b2a13a1NoDeps.bin, size=24)
+[2023.04.04-21.07.26:263][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/e4691053NoDeps.bin, size=24)
+[2023.04.04-21.07.26:264][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/9c0d38abNoDeps.bin, size=24)
+[2023.04.04-21.07.26:264][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/894bf79cNoDeps.bin, size=24)
+[2023.04.04-21.07.26:264][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/9bebf41cNoDeps.bin, size=24)
+[2023.04.04-21.07.26:264][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/2dfed214NoDeps.bin, size=24)
+[2023.04.04-21.07.26:265][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/208e45bfNoDeps.bin, size=24)
+[2023.04.04-21.07.26:265][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/619e3bb0NoDeps.bin, size=24)
+[2023.04.04-21.07.26:265][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/a2a5b1f1NoDeps.bin, size=24)
+[2023.04.04-21.07.26:265][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/4b1680e0NoDeps.bin, size=24)
+[2023.04.04-21.07.26:266][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ab4fb331NoDeps.bin, size=24)
+[2023.04.04-21.07.26:266][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/2b10632bNoDeps.bin, size=24)
+[2023.04.04-21.07.26:266][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5f0cb804NoDeps.bin, size=24)
+[2023.04.04-21.07.26:267][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/4bb4ef46NoDeps.bin, size=24)
+[2023.04.04-21.07.26:267][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/86ccb267NoDeps.bin, size=24)
+[2023.04.04-21.07.26:267][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/abd057e4NoDeps.bin, size=24)
+[2023.04.04-21.07.26:267][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ccdefb30NoDeps.bin, size=24)
+[2023.04.04-21.07.26:268][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/344146d8NoDeps.bin, size=24)
+[2023.04.04-21.07.26:268][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5c0679b4NoDeps.bin, size=24)
+[2023.04.04-21.07.26:268][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/61c7e9c8NoDeps.bin, size=24)
+[2023.04.04-21.07.26:269][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/5aa55150NoDeps.bin, size=24)
+[2023.04.04-21.07.26:269][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/b10d5fccNoDeps.bin, size=24)
+[2023.04.04-21.07.26:269][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/7b02a857NoDeps.bin, size=24)
+[2023.04.04-21.07.26:269][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/1d7542eeNoDeps.bin, size=24)
+[2023.04.04-21.07.26:270][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/772f6931NoDeps.bin, size=24)
+[2023.04.04-21.07.26:270][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/1de6553cNoDeps.bin, size=24)
+[2023.04.04-21.07.26:270][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/b331e729NoDeps.bin, size=24)
+[2023.04.04-21.07.26:271][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/f7f7e171NoDeps.bin, size=24)
+[2023.04.04-21.07.26:271][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/c4663241NoDeps.bin, size=24)
+[2023.04.04-21.07.26:271][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/671b2e27NoDeps.bin, size=24)
+[2023.04.04-21.07.26:271][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/49f14d2eNoDeps.bin, size=24)
+[2023.04.04-21.07.26:272][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/ba3e9b51NoDeps.bin, size=24)
+[2023.04.04-21.07.26:272][  0]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=../../../ProjectWar/Intermediate/AssetRegistryCache/e60c7243NoDeps.bin, size=24)
+[2023.04.04-21.07.26:272][  0]LogDataTable: Display: Load DataTable: Table_ActorRandomItemsPackage | ActorRandomItemsPackage.
+[2023.04.04-21.07.26:272][  0]LogDataTable: Display: Load DataTable: Table_CollectableResource | ResourceConfig.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_CollectMethodDesc | CollectMethodDesc.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_ConstructLevel | ConstructResourceRow.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_HardwareAbility | HardAbilityLevel.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_InteactActor | InteactActorConfig.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_Interact | InteactConfig.
+[2023.04.04-21.07.26:273][  0]LogDataTable: Display: Load DataTable: Table_PhysicMat | PhyMaterialTable.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: Table_RandomItemsPackage | RandomItemsPackage.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: Table_SpawnPointObjects | SpawnPointObjectRow.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: Table_SupplyChest | SupplyChestConfig.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: Table_SupplyDepot | SupplyDepotConfig.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow | AnimationConfigs_Bow.
+[2023.04.04-21.07.26:274][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow_1P | AnimationConfigs_Bow_1P.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm | AnimationConfigs_Firearm.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm_1P | AnimationConfigs_Firearm_1P.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool | AnimationConfigs_HandTool.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool_1P | AnimationConfigs_HandTool_1P.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower | AnimationConfigs_Thrower.
+[2023.04.04-21.07.26:275][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower_1P | AnimationConfigs_Thrower_1P.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: Table_AttackCityRandomNpcBagConfig | AttackCityRandomNpcBagConfig.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: Table_MonsterACConfig | MonsterACConfig.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: Table_MonsterAttackCityActivity | MonsterAttackCity.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: Table_NpcAttackCityRandomConfig | NpcAttackCityRandomConfig.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: DT_ShopItem | BattleShopItem.
+[2023.04.04-21.07.26:276][  0]LogDataTable: Display: Load DataTable: Table_EventConfig | EventConfig.
+[2023.04.04-21.07.26:278][  0]LogDataTable: Display: Load DataTable: Table_FighterConfig | FighterCharacterConfig.
+[2023.04.04-21.07.26:278][  0]LogDataTable: Display: Load DataTable: Table_FighterPack | AttributeMetaData.
+[2023.04.04-21.07.26:278][  0]LogDataTable: Display: Load DataTable: Table_NpcConfig | NpcConfig.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: Table_NpcPack | CharacterAttributePack.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: Table_NPCWeaponConfig | NPCWeaponConfig.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: Table_GameplayEffect | GameplayEffectConfig.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_AvatarItem | AvatarEquipItem.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_ConstructItems | HandConstructItem.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_Consumable | ConsumableItem.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_ItemRarity | ItemRarityConfig.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_MadeDrawingItem | MadeDrawingItem.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_ResourceItems | ItemBase.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_Seeds | HandSeeds.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_Ammo | AmmoItem.
+[2023.04.04-21.07.26:279][  0]LogDataTable: Display: Load DataTable: DT_Ammo_Specific | AmmoSpecific.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_AA_Specific | AvatarAttachmentSpecific.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_AvatarAttachment | AvatarAttachment.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_FirearmModule | FMItem.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_HI_Firearm | FirearmItem.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool | HandToolItem.
+[2023.04.04-21.07.26:280][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool_BRC | BombRemoteControllerItem.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HI_HandVehicle | HandVehicleItem.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HI_Thrower | ThrowerItem.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HandItemAttachment | HandItemAttachment.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HIA_Bright | Bright.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HIA_Grip | Grip.
+[2023.04.04-21.07.26:281][  0]LogDataTable: Display: Load DataTable: DT_HIA_HandTool | HandToolAttachment.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: DT_HIA_Magazine | Magazine.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: DT_HIA_Sight | Sight.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: DT_HIA_Stock | Stock.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: DT_HIA_Suppressor | Suppressor.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: LeveExpConfig | LevelConfig.
+[2023.04.04-21.07.26:282][  0]LogDataTable: Display: Load DataTable: MapAreaConfig | MapAreaConfig.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: MapMarkConfig | MapMarkConfig.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: NotificationData | DefaultNotifyText.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: DailyQuestConfig | DailyQuestConfig.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: LevelQuestConfig | LevelQuestConfig.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: QuestConfig | QuestConfig.
+[2023.04.04-21.07.26:283][  0]LogDataTable: Display: Load DataTable: DT_RecipeConfig | RecipeConfig.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: DT_RecipeGroup | RecipeGroupConfig.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: DT_ShopConfig | ShopConfig.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: Table_Talent | TalentDataBase.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: DT_TextFontStyle | RichTextStyleRow.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: Table_Vehicle | VehicleConfig.
+[2023.04.04-21.07.26:284][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmo | VehicleAmmoConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmoItem | VehicleAmmoItemConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquip | VehicleEquipConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquipItem | VehicleEquipItemConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeapon | VehicleWeaponConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeaponItem | VehicleWeaponItemConfig.
+[2023.04.04-21.07.26:285][  0]LogDataTable: Display: Loaded. DataTables: 76, AssetDataList: 76.
+[2023.04.04-21.07.26:313][  0]LogSaveGame: restore world complete, milliseconds=1002.884600, restored total=1, spawned=1, failed=0, characters=1, constructions=0
+[2023.04.04-21.07.26:320][  0]LogFPS: Error: copper, mesh=/Game/Root/Environment/Collectable/CopperMineral/SM_M_CopperMineral.SM_M_CopperMineral, object=BP_ResourceISMComponent_C_12, add to physics sence=true
+[2023.04.04-21.07.26:321][  0]LogFPS: Error: copper, mesh=/Game/Root/Environment/Collectable/CopperMineral/SM_M_CopperMineral.SM_M_CopperMineral, object=BP_ResourceISMComponent_C_3, add to physics sence=true
+[2023.04.04-21.07.26:326][  0]LogDBCollectService: isserver:1 isedit:0 enable:0 islobby:0
+[2023.04.04-21.07.26:326][  0]LogLoad: Took 1.658772 seconds to LoadMap(/Game/Root/Map/OpenWorld_MiniMap_x2_y1/HeavenIsland_Start_1)
+[2023.04.04-21.07.26:326][  0]LogStreaming: Warning: Failed to read file '../../../ProjectWar/Saved/AssetCache.dat' error.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_ActorRandomItemsPackage | ActorRandomItemsPackage.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_CollectableResource | ResourceConfig.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_CollectMethodDesc | CollectMethodDesc.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_ConstructLevel | ConstructResourceRow.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_HardwareAbility | HardAbilityLevel.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_InteactActor | InteactActorConfig.
+[2023.04.04-21.07.26:328][  0]LogDataTable: Display: Load DataTable: Table_Interact | InteactConfig.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: Table_PhysicMat | PhyMaterialTable.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: Table_RandomItemsPackage | RandomItemsPackage.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: Table_SpawnPointObjects | SpawnPointObjectRow.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: Table_SupplyChest | SupplyChestConfig.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: Table_SupplyDepot | SupplyDepotConfig.
+[2023.04.04-21.07.26:329][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow | AnimationConfigs_Bow.
+[2023.04.04-21.07.26:330][  0]LogDataTable: Display: Load DataTable: DT_AC_Bow_1P | AnimationConfigs_Bow_1P.
+[2023.04.04-21.07.26:330][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm | AnimationConfigs_Firearm.
+[2023.04.04-21.07.26:330][  0]LogDataTable: Display: Load DataTable: DT_AC_Firearm_1P | AnimationConfigs_Firearm_1P.
+[2023.04.04-21.07.26:330][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool | AnimationConfigs_HandTool.
+[2023.04.04-21.07.26:330][  0]LogDataTable: Display: Load DataTable: DT_AC_HandTool_1P | AnimationConfigs_HandTool_1P.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower | AnimationConfigs_Thrower.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: DT_AC_Thrower_1P | AnimationConfigs_Thrower_1P.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: Table_AttackCityRandomNpcBagConfig | AttackCityRandomNpcBagConfig.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: Table_MonsterACConfig | MonsterACConfig.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: Table_MonsterAttackCityActivity | MonsterAttackCity.
+[2023.04.04-21.07.26:331][  0]LogDataTable: Display: Load DataTable: Table_NpcAttackCityRandomConfig | NpcAttackCityRandomConfig.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: DT_ShopItem | BattleShopItem.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: Table_EventConfig | EventConfig.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: Table_FighterConfig | FighterCharacterConfig.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: Table_FighterPack | AttributeMetaData.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: Table_NpcConfig | NpcConfig.
+[2023.04.04-21.07.26:332][  0]LogDataTable: Display: Load DataTable: Table_NpcPack | CharacterAttributePack.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: Table_NPCWeaponConfig | NPCWeaponConfig.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: Table_GameplayEffect | GameplayEffectConfig.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_AvatarItem | AvatarEquipItem.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_ConstructItems | HandConstructItem.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_Consumable | ConsumableItem.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_ItemRarity | ItemRarityConfig.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_MadeDrawingItem | MadeDrawingItem.
+[2023.04.04-21.07.26:333][  0]LogDataTable: Display: Load DataTable: DT_ResourceItems | ItemBase.
+[2023.04.04-21.07.26:334][  0]LogDataTable: Display: Load DataTable: DT_Seeds | HandSeeds.
+[2023.04.04-21.07.26:334][  0]LogDataTable: Display: Load DataTable: DT_Ammo | AmmoItem.
+[2023.04.04-21.07.26:334][  0]LogDataTable: Display: Load DataTable: DT_Ammo_Specific | AmmoSpecific.
+[2023.04.04-21.07.26:334][  0]LogDataTable: Display: Load DataTable: DT_AA_Specific | AvatarAttachmentSpecific.
+[2023.04.04-21.07.26:334][  0]LogDataTable: Display: Load DataTable: DT_AvatarAttachment | AvatarAttachment.
+[2023.04.04-21.07.26:335][  0]LogDataTable: Display: Load DataTable: DT_FirearmModule | FMItem.
+[2023.04.04-21.07.26:335][  0]LogDataTable: Display: Load DataTable: DT_HI_Firearm | FirearmItem.
+[2023.04.04-21.07.26:337][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool | HandToolItem.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HI_HandTool_BRC | BombRemoteControllerItem.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HI_HandVehicle | HandVehicleItem.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HI_Thrower | ThrowerItem.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HandItemAttachment | HandItemAttachment.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HIA_Bright | Bright.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HIA_Grip | Grip.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HIA_HandTool | HandToolAttachment.
+[2023.04.04-21.07.26:338][  0]LogDataTable: Display: Load DataTable: DT_HIA_Magazine | Magazine.
+[2023.04.04-21.07.26:339][  0]LogDataTable: Display: Load DataTable: DT_HIA_Sight | Sight.
+[2023.04.04-21.07.26:340][  0]LogDataTable: Display: Load DataTable: DT_HIA_Stock | Stock.
+[2023.04.04-21.07.26:340][  0]LogDataTable: Display: Load DataTable: DT_HIA_Suppressor | Suppressor.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: LeveExpConfig | LevelConfig.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: MapAreaConfig | MapAreaConfig.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: MapMarkConfig | MapMarkConfig.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: NotificationData | DefaultNotifyText.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: DailyQuestConfig | DailyQuestConfig.
+[2023.04.04-21.07.26:341][  0]LogDataTable: Display: Load DataTable: LevelQuestConfig | LevelQuestConfig.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: QuestConfig | QuestConfig.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: DT_RecipeConfig | RecipeConfig.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: DT_RecipeGroup | RecipeGroupConfig.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: DT_ShopConfig | ShopConfig.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: Table_Talent | TalentDataBase.
+[2023.04.04-21.07.26:342][  0]LogDataTable: Display: Load DataTable: DT_TextFontStyle | RichTextStyleRow.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_Vehicle | VehicleConfig.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmo | VehicleAmmoConfig.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_VehicleAmmoItem | VehicleAmmoItemConfig.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquip | VehicleEquipConfig.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_VehicleEquipItem | VehicleEquipItemConfig.
+[2023.04.04-21.07.26:343][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeapon | VehicleWeaponConfig.
+[2023.04.04-21.07.26:344][  0]LogDataTable: Display: Load DataTable: Table_VehicleWeaponItem | VehicleWeaponItemConfig.
+[2023.04.04-21.07.26:344][  0]LogDataTable: Display: Loaded. DataTables: 76, AssetDataList: 76.
+[2023.04.04-21.07.26:347][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.04.04-21.07.26:347][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2023.04.04-21.07.26:348][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 23222
+[2023.04.04-21.07.26:348][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.04.04-21.07.26:348][  0]LogNet: IpNetDriver_2147482209 IpNetDriver_2147482209 IpNetDriver listening on port 23222
+[2023.04.04-21.07.26:348][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.04-21.07.26:348][  0]LogLoad: (Engine Initialization) Total time: 2.34 seconds
+[2023.04.04-21.07.32:539][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:541][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:542][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:543][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:543][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:543][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:544][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:544][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:544][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:544][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:545][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:545][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:545][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.32:545][365]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:847][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:849][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:852][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:852][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:853][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:853][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:853][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:853][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:853][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:854][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:854][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:854][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:854][686]LogTemp: LockFree Tag has overflowed...(not a problem).
+[2023.04.04-21.07.37:854][686]LogTemp: LockFree Tag has overflowed...(not a problem).
